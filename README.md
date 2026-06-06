@@ -1,4 +1,4 @@
-# Big Data Management and Methods - Airbnb Database Analysis
+# Big Data Management and Modelling - Airbnb Database Analysis
 
 This Big Data consulting project analyzes an Airbnb database to optimize business intelligence queries. We leveraged Docker to deploy a local MongoDB instance, using Python and aggregation pipelines to efficiently process, clean, and extract insights on pricing and hosts from complex housing data.
 
